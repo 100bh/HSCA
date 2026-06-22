@@ -1,0 +1,6 @@
+{
+  "name": "HomeSarthi Campus Ambassador",
+  "description": "Premium Apple-style glassmorphic, responsive portal for HomeSarthi Campus Ambassadors to track earnings, bookings, and manage accounts with pre-login and post-login states.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
